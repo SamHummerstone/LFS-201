@@ -1,0 +1,13 @@
+###########################################
+Cheat Sheet of useful comands from LFS-201.
+###########################################
+
+##########
+Chapter 12
+##########
+
+# Command to mount a zero-file
+sudo mount -o loop /imagefile /mnt/tempdir/
+
+# Line to add to /etc/fstab for boot mounting
+/dev/sda11 /mnt/tempdir ext4 defaults 1 2
