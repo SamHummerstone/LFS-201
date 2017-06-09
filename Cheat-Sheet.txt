@@ -2,12 +2,142 @@
 Cheat Sheet of useful comands from LFS-201.
 ###########################################
 
-##########
-Chapter 12
-##########
+=========== 
+ Chapter 1
+=========== 
+=========== 
+ Chapter 2 - System Startup and Shutdown
+=========== 
+### Contents
+ * Boot process
+ * Types of Bootloaders
+ * Describe BIOS
+ * Config Files
+ * System Shut-Down
 
-# Command to mount a zero-file
-sudo mount -o loop /imagefile /mnt/tempdir/
-
-# Line to add to /etc/fstab for boot mounting
-/dev/sda11 /mnt/tempdir ext4 defaults 1 2
+### Boot process
+1. BIOS (Basic Input Output System) or UEFI (Unified Extensible Framework Interface) locates and executes the boot program, or boot loader.
+ - BIOS runs POST (Power On Self Test) which does a memory and hardware check, and then searches for a boot program on an attached device.
+ - Boot program tends to be located on a device's MBR (Master Boot Record).
+2. Boot loader loads the kernel.
+ - The Boot loader, often GRUB (GNU GRand Unified Bootloader) takes control of the computer and loads the kernel into memory
+=========== 
+ Chapter 3 - GRUB
+=========== 
+=========== 
+ Chapter 4 - init: SystemV, Upstart, Systemd
+=========== 
+=========== 
+ Chapter 5 - Linux Filesystem Tree Layout
+=========== 
+=========== 
+ Chapter 6 - Kernel Services and Configuration
+=========== 
+=========== 
+ Chapter 7 - Kernel Modules
+=========== 
+=========== 
+ Chapter 8 - Devices and UDEV
+=========== 
+=========== 
+ Chapter 9 - Partitioning and Formatting Disks
+=========== 
+============
+ Chapter 10 - Encrypting Disks 
+============ 
+============ 
+ Chapter 11 - Linux Filesystems and the VFS
+============ 
+=========== 
+ Chapter 12 - Filesystem Features: Attributes, Creating, Checking, Mounting
+=========== 
+=========== 
+ Chapter 13 - Filesystem Features: Swap, Quotas, Usage
+=========== 
+=========== 
+ Chapter 14 - The Ext2/Ext3/Ext4 Filesystems
+=========== 
+=========== 
+ Chapter 15 - The XFS and btrfs Filesystems
+=========== 
+=========== 
+ Chapter 16 - Logical Volume Management (LVM)
+=========== 
+=========== 
+ Chapter 17 - RAID
+=========== 
+=========== 
+ Chapter 18 - Local System Security
+=========== 
+=========== 
+ Chapter 19 - Linux Security Modules
+=========== 
+=========== 
+ Chapter 20 - Processes
+=========== 
+=========== 
+ Chapter 21 - Signals
+=========== 
+=========== 
+ Chapter 22 - System Monitoring
+=========== 
+=========== 
+ Chapter 23
+=========== 
+=========== 
+ Chapter 24
+=========== 
+=========== 
+ Chapter 25
+=========== 
+=========== 
+ Chapter 26
+=========== 
+=========== 
+ Chapter 27
+=========== 
+=========== 
+ Chapter 28
+=========== 
+=========== 
+ Chapter 29
+=========== 
+=========== 
+ Chapter 30
+=========== 
+=========== 
+ Chapter 31
+=========== 
+=========== 
+ Chapter 32
+=========== 
+=========== 
+ Chapter 33
+=========== 
+=========== 
+ Chapter 34
+=========== 
+=========== 
+ Chapter 35
+=========== 
+=========== 
+ Chapter 36
+=========== 
+=========== 
+ Chapter 37
+=========== 
+=========== 
+ Chapter 38
+=========== 
+=========== 
+ Chapter 39
+=========== 
+=========== 
+ Chapter 40
+=========== 
+=========== 
+ Chapter 41
+=========== 
+=========== 
+ Chapter 42
+=========== 
