@@ -34,33 +34,49 @@ Cheat Sheet of useful comands from LFS-201.
  Chapter 4 - init: SystemV, Upstart, Systemd
 =========== 
 ### Contents
- * Understanding init Process
- * How SysVinit Works and Explaining runlevels
- * Using chkconfig and service to Start and Stop Services (Across reboots)
- * Using Upstart and systemd
+ * init Process
+ * SysVinit and runlevels
+ * chkconfig and service/Start and Stop Services (Across reboots)
+ * Upstart and systemd
  * Configure systemd with systemctl
 =========== 
  Chapter 5 - Linux Filesystem Tree Layout
 =========== 
 ### Contents
- * Explain the Organisation of the Filesystem Tree
- * Understand the Filesystem Hierarchy Standard
- * Describe what is Needed at Boot in Root (/)
- * Explain each Main Subdirectory Tree
+ * Filesystem Tree Organisation
+ * Filesystem Hierarchy Standard
+ * What is Needed at Boot in Root (/)
+ * Main Subdirectory Trees
 =========== 
  Chapter 6 - Kernel Services and Configuration
 =========== 
 ### Contents
- * 
+ * Kernel Responsibilities
+ * Kernel Command Line Parameters
+ * Parameters Documentation
+ * Kernel Parameters with sysctl
 =========== 
  Chapter 7 - Kernel Modules
 =========== 
+### Contents
+ * Kernel Modules
+ * insmod, rmmod and modprobe to manage modules
+ * modinfo for Mopules
 =========== 
- Chapter 8 - Devices and UDEV
+ Chapter 8 - Devices and udev
 =========== 
+### Contents
+ * Device nodes and major/minor Numbers
+ * udev and it's Components 
+ * udev Functions
+ * udev Rule Files
 =========== 
  Chapter 9 - Partitioning and Formatting Disks
 =========== 
+### Contents
+ * Types of Hard Disks and Data Buses
+ * Disk Geometry and Partitioning
+ * Disk Device Naming and Nodes
 ============
  Chapter 10 - Encrypting Disks 
 ============ 
