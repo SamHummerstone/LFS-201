@@ -77,6 +77,9 @@ Cheat Sheet of useful comands from LFS-201.
  * Types of Hard Disks and Data Buses
  * Disk Geometry and Partitioning
  * Disk Device Naming and Nodes
+ * Partitioning Strategies
+ * blkid and fdisk
+ * Partition Table Back-up and Restore
 ============
  Chapter 10 - Encrypting Disks 
 ============ 
