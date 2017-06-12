@@ -24,15 +24,34 @@ Cheat Sheet of useful comands from LFS-201.
 =========== 
  Chapter 3 - GRUB
 =========== 
+### Contents
+ * The Role of GRUB
+ * Difference Between GRUB 1 or 2
+ * Interactive Selections at Boot
+ * Installing GRUB
+ * GRUB Configuration Files
 =========== 
  Chapter 4 - init: SystemV, Upstart, Systemd
 =========== 
+### Contents
+ * Understanding init Process
+ * How SysVinit Works and Explaining runlevels
+ * Using chkconfig and service to Start and Stop Services (Across reboots)
+ * Using Upstart and systemd
+ * Configure systemd with systemctl
 =========== 
  Chapter 5 - Linux Filesystem Tree Layout
 =========== 
+### Contents
+ * Explain the Organisation of the Filesystem Tree
+ * Understand the Filesystem Hierarchy Standard
+ * Describe what is Needed at Boot in Root (/)
+ * Explain each Main Subdirectory Tree
 =========== 
  Chapter 6 - Kernel Services and Configuration
 =========== 
+### Contents
+ * 
 =========== 
  Chapter 7 - Kernel Modules
 =========== 
