@@ -83,9 +83,19 @@ Cheat Sheet of useful comands from LFS-201.
 ============
  Chapter 10 - Encrypting Disks 
 ============ 
+### Contents
+ * When to Use Encryption
+ * Operating LUKS with cryptsetup
+ * Encrypt Filesystems and Partitions
+ * Mount Encrypted partitions at boot
 ============ 
  Chapter 11 - Linux Filesystems and the VFS
 ============ 
+### Contents
+ * Filesystem Organisation
+ * VFS
+ * Available Linux Filesystems
+ * Journalling Filesystems
 =========== 
  Chapter 12 - Filesystem Features: Attributes, Creating, Checking, Mounting
 =========== 
