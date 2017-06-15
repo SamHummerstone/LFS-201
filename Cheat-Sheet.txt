@@ -96,96 +96,169 @@ Cheat Sheet of useful comands from LFS-201.
  * VFS
  * Available Linux Filesystems
  * Journalling Filesystems
-=========== 
+ * Special Filesystem
+============ 
  Chapter 12 - Filesystem Features: Attributes, Creating, Checking, Mounting
-=========== 
-=========== 
+============ 
+### Contents
+ * inodes, directory files and extended attributes
+ * Create and Format Filesystems
+ * Filesystem Errors
+ * Mounting and Unmounting
+============
  Chapter 13 - Filesystem Features: Swap, Quotas, Usage
-=========== 
-=========== 
+============ 
+### Contents
+ * Swap and Quota Concepts
+ * Using quotacheck, quotaon, quotaoff, edquota and quota
+ * df and du
+============ 
  Chapter 14 - The Ext2/Ext3/Ext4 Filesystems
-=========== 
-=========== 
+============ 
+### Contents
+ * ext4 Filesystem
+ * Block groups, superblock, data blocks and inodes
+ * dumpe2fs and tune2fs
+ * ext4 Enhancements
+============ 
  Chapter 15 - The XFS and btrfs Filesystems
-=========== 
-=========== 
+============ 
+### Contents
+ * XFS Filesystem
+ * Maintaining XFS
+ * btrfs filesystem
+============ 
  Chapter 16 - Logical Volume Management (LVM)
-=========== 
-=========== 
+============ 
+### Contents
+ * LVM Concepts
+ * Create Logical Volumes
+ * Display Logical Volumes
+ * Resize Logical Volumes
+ * LVM Snapshots
+============ 
  Chapter 17 - RAID
-=========== 
-=========== 
+============ 
+### Contents
+ * RAID Concepts
+ * RAID Levels
+ * Configuring RAID
+ * Monitor RAID Devices
+ * Hot Spares
+============
  Chapter 18 - Local System Security
-=========== 
-=========== 
+============
+### Contents
+ * Assess Security Risks
+ * Implement Security Policies and Procedures
+ * Protect BIOS and Boot Loader
+ * Use mount, setuid and setgid to Enhance Security
+============
  Chapter 19 - Linux Security Modules
-=========== 
-=========== 
+============
+### Contents
+ * LSM Deployment
+ * LSM Implementation
+ * Features of SELinux
+ * Modes and Policies of SELinux
+ * Getting and Setting Contexts
+ * SELinux Utility Programs
+============
  Chapter 20 - Processes
-=========== 
-=========== 
+============
+### Contents
+ * Resources Associated with Processes
+ * Processes, Programs and Threads Differences
+ * Process Attributes, Permissions and States
+ * User and Kernel Modes
+ * daemon Processes
+ * How Processes are Forked
+ * nice and renice
+============
  Chapter 21 - Signals
-=========== 
-=========== 
+============
+### Contents
+============
  Chapter 22 - System Monitoring
-=========== 
-=========== 
+============
+### Contents
+============
  Chapter 23 - Process Monitoring
-=========== 
-=========== 
+============
+### Contents
+============
  Chapter 24 - I/O Monitoring and Tuning
-=========== 
-=========== 
+============
+### Contents
+============
  Chapter 25 - I/O Scheduling
-=========== 
-=========== 
+============
+### Contents
+============
  Chapter 26 - Memory: Monitoring Usage and Tuning
-=========== 
-=========== 
+============
+### Contents
+============
  Chapter 27 - Package Management Systems
-=========== 
-=========== 
+============
+### Contents
+============
  Chapter 28 - RPM
-=========== 
-=========== 
+============
+### Contents
+============
  Chapter 29 - DPKG
-=========== 
-=========== 
+============
+### Contents
+============
  Chapter 30 - yum
-=========== 
-=========== 
+============
+### Contents
+============
  Chapter 31 - zypper
-=========== 
-=========== 
+============
+### Contents
+============
  Chapter 32 - APT
-=========== 
-=========== 
+============
+### Contents
+============
  Chapter 33 - User Account Management
-=========== 
-=========== 
+============
+### Contents
+============
  Chapter 34 - Group Management
-=========== 
-=========== 
+============
+### Contents
+============
  Chapter 35 - File Permissions and Ownership
-=========== 
-=========== 
+============
+### Contents
+============
  Chapter 36 - Pluggable Authentication Modules (PAM)
-=========== 
-=========== 
+============
+### Contents
+============
  Chapter 37 - Backup and Recovery Methods
-=========== 
-=========== 
+============
+### Contents
+============
  Chapter 38 - Network Addresses
-=========== 
-=========== 
+============
+### Contents
+============
  Chapter 39 - Network Devices and Configuration
-=========== 
-=========== 
+============
+### Contents
+============
  Chapter 40 - Firewalls
-=========== 
-=========== 
+============
+### Contents
+============
  Chapter 41 - Basic Troubleshooting
-=========== 
-=========== 
+============
+### Contents
+============
  Chapter 42 - System Rescue
-=========== 
+============
+### Contents
