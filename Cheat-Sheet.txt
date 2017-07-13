@@ -178,22 +178,38 @@ Cheat Sheet of useful comands from LFS-201.
  Chapter 21 - Signals
 ============
 ### Contents
+ * How Signals are used
+ * Types of Signals
+ * Using kill, killall and pkill
 ============
  Chapter 22 - System Monitoring
 ============
 ### Contents
+ * System Monitoring Tools
+ * /proc and /sys
+ * sar Command
 ============
  Chapter 23 - Process Monitoring
 ============
 ### Contents
+ * ps Command
+ * Customize ps Output
+ * pstree Command
+ * top Command
 ============
  Chapter 24 - I/O Monitoring and Tuning
 ============
 ### Contents
+ * iostat Command
+ * iotop Command
+ * ionice Command
 ============
  Chapter 25 - I/O Scheduling
 ============
 ### Contents
+ * Importance of I/O Scheduling
+ * Describe I/O Scheduling option for Linux
+ * CFQ and Deadline algorithms
 ============
  Chapter 26 - Memory: Monitoring Usage and Tuning
 ============
